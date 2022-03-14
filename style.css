@@ -77,4 +77,11 @@ footer {
   .main-box:last-child {
     margin: 0 auto 0;
   }
-
+  h3 {
+    font-size: 16px;
+    font-weight: lighter;
+  }
+  p {
+    font-size: 12px;
+  }
+}
